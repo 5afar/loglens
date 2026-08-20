@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/danila/Documents/c_plus_plus/loglens/out/build/Clang 17.0.0 arm64-apple-darwin25.3.0",
-  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/loglens.dir/main.cpp.o -c /Users/danila/Documents/c_plus_plus/loglens/main.cpp",
-  "file": "/Users/danila/Documents/c_plus_plus/loglens/main.cpp",
-  "output": "CMakeFiles/loglens.dir/main.cpp.o"
-}
-]
